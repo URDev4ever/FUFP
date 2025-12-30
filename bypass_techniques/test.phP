@@ -1,0 +1,1 @@
+<?php echo "CASE_VARIATION_PHP"; ?>

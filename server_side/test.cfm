@@ -1,0 +1,1 @@
+<cfoutput>COLDFUSION_TEST</cfoutput>

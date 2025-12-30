@@ -1,0 +1,5 @@
+# Test cron entries for security testing
+# These are examples for testing only
+* * * * * echo 'cron_test'
+*/5 * * * * /bin/true
+# Test file only

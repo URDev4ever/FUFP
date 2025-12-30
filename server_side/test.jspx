@@ -1,0 +1,2 @@
+<jsp:directive.page />
+<jsp:scriptlet>out.println("JSPX_TEST");</jsp:scriptlet>

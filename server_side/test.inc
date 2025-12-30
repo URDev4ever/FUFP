@@ -1,0 +1,1 @@
+<?php echo "INC_TEST"; ?>

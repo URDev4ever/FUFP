@@ -1,0 +1,1 @@
+<?php echo "TXT_CLAIMING_HTML_MIME"; ?>

@@ -1,0 +1,6 @@
+# Test .gitignore file
+uploads/*
+*.tmp
+*.log
+cache/
+# Test file only

@@ -1,0 +1,10 @@
+{
+  "test": true,
+  "users": [
+    "admin",
+    "user"
+  ],
+  "config": {
+    "debug": false
+  }
+}

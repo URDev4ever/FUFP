@@ -1,0 +1,1 @@
+<?php echo strrev("php.tset"); // test.php reversed ?>

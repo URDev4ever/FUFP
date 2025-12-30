@@ -1,0 +1,2 @@
+Original: test.php%00.jpg
+Null byte injection test

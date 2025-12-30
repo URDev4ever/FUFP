@@ -1,0 +1,6 @@
+# Test environment variables
+DB_HOST=test.local
+DB_USER=test_user
+DB_PASSWORD=test_pass_123
+API_KEY=test_key_abcdef
+# These are test values only

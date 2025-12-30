@@ -1,0 +1,3 @@
+Original: test.ph%70
+Decodes to: test.php
+Percent-encoded bypass

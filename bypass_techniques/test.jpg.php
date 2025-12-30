@@ -1,0 +1,1 @@
+<?php echo "PHP_WITH_JPG_EXT"; ?>

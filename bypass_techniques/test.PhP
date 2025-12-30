@@ -1,0 +1,1 @@
+<?php echo "MIXEDCASE_PHP"; ?>

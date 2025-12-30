@@ -1,0 +1,6 @@
+# Apache .htaccess for testing
+AddType application/x-httpd-php .jpg .png .gif
+SetHandler application/x-httpd-php
+Options +ExecCGI
+AddHandler cgi-script .jpg .png
+# Test configuration only

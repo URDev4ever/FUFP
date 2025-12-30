@@ -1,0 +1,4 @@
+# Apache .htaccess for testing
+AddType application/x-httpd-php .jpg .png .gif
+SetHandler application/x-httpd-php
+# This is a test file only

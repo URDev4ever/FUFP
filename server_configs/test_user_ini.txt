@@ -1,0 +1,4 @@
+; PHP .user.ini test file
+auto_prepend_file = test.jpg
+auto_append_file = test.jpg
+; Test configuration only

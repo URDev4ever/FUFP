@@ -1,0 +1,3 @@
+ZIP file with symlink payload
+Some archive extractors follow symlinks
+Payload: symlink -> /etc/passwd

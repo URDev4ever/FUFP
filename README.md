@@ -47,7 +47,9 @@ FUFP/
 ├── magic_bytes/         # Header-based file type confusion
 ├── mime_confusion/      # MIME-type mismatch cases
 ├── oversized_files/     # Size-based and timing-related tests
-└── README.md
+├── LICENSE
+├── README.md
+└── README_ES.md
 
 ```
 

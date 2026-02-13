@@ -2,6 +2,8 @@
 """
 FUFP (File Upload Fuzzing Pack) Generator - Files Only
 Author: URDev
+Github: https://github.com/URDev4ever
+Contact & Links: https://urdev.carrd.co
 Description: Generates file upload testing kit with safe filenames
              Strict separation of text and binary files
 Version: 3.0 - Secure Generation

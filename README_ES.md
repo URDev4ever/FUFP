@@ -1,7 +1,7 @@
 <h1 align="center">FUFP — File Upload Fuzz Pack</h1>
 <p align="center">
   🇺🇸 <a href="README.md"><b>English</b></a> |
-  🇪🇸 <a href="README_ES.md">Español</a>
+  🇪🇸 <b>Español</b>
 </p>
 
 <h3 align="center">FUFP (File Upload Fuzz Pack) es una colección personal curada de archivos diseñada para probar, hacer fuzzing y analizar mecanismos de subida de archivos en aplicaciones web.</h3>
